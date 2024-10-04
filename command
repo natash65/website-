@@ -11,5 +11,3 @@
 </body>
 </html>
 
-<!-- script.js -->
-console.log("https://sexyloveboth.blogspot.com/");
